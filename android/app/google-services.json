@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "431374365170",
+    "project_id": "gupsup-app-be815",
+    "storage_bucket": "gupsup-app-be815.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431374365170:android:f05a4e43672c536f2a3b6b",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv2qY8CnqzHgW_gHjacRIFWG3ZVSRcKTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
