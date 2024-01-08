@@ -8,7 +8,7 @@
 
 <b>Some ScreenShots(Actual App Even Looks Better 😃):</b></br><br>
 <kbd>
-![8](https://github.com/TechboyVerma/Gup-Sup_Chating_Application_/assets/114131682/f1223d26-8249-44bc-9275-45448acc9d01)
+<img src="ScreenShots/1 (2).jpg" width=300/>
 </kbd>
 <br>
 <br>
