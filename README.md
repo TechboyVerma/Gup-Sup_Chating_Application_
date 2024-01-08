@@ -8,17 +8,7 @@
 
 <b>Some ScreenShots(Actual App Even Looks Better 😃):</b></br><br>
 <kbd>
-<img height="30%/" src="C:\Users\QAZI\OneDrive\Desktop\Flutter Projects\chatapp\ScreenShots\1(2).jpg" width="30%"/>
-<img height="30%/" src="C:\Users\QAZI\OneDrive\Desktop\Flutter Projects\chatapp\ScreenShots\3(2).jpg" width="30%"/>
-<img height="30%/" src="C:\Users\QAZI\OneDrive\Desktop\Flutter Projects\chatapp\ScreenShots\4(2).jpg" width="30%"/>
-<img height="30%/" src="C:\Users\QAZI\OneDrive\Desktop\Flutter Projects\chatapp\ScreenShots\emoji.jpg" width="30%"/>
-<img height="30%/" src="C:\Users\QAZI\OneDrive\Desktop\Flutter Projects\chatapp\ScreenShots\msginfo.jpg" width="30%"/>
-<img height="30%/" src="C:\Users\QAZI\OneDrive\Desktop\Flutter Projects\chatapp\ScreenShots\msginfo2.jpg" width="30%"/>
-<img height="30%/" src="C:\Users\QAZI\OneDrive\Desktop\Flutter Projects\chatapp\ScreenShots\ownprofile.jpg" width="30%"/>
-<img height="30%/" src="C:\Users\QAZI\OneDrive\Desktop\Flutter Projects\chatapp\ScreenShots\userinfo.jpg" width="30%"/>
-<img height="30%/" src="C:\Users\QAZI\OneDrive\Desktop\Flutter Projects\chatapp\ScreenShots\userinfo dialog.jpg" width="30%"/>
-<img height="30%/" src="C:\Users\QAZI\OneDrive\Desktop\Flutter Projects\chatapp\ScreenShots\7.jpg" width="30%"/>
-<img height="30%/" src="C:\Users\QAZI\OneDrive\Desktop\Flutter Projects\chatapp\ScreenShots\8.jpg" width="30%"/>
+![8](https://github.com/TechboyVerma/Gup-Sup_Chating_Application_/assets/114131682/f1223d26-8249-44bc-9275-45448acc9d01)
 </kbd>
 <br>
 <br>
