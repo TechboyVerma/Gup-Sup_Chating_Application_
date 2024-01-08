@@ -9,9 +9,20 @@
 <b>Some ScreenShots(Actual App Even Looks Better 😃):</b></br><br>
 <kbd>
 <img src="ScreenShots/1 (2).jpg" width=300/>
+<img src="ScreenShots/3 (2).jpg" width=300/>
+<img src="ScreenShots/4 (2).jpg" width=300/>
+<img src="ScreenShots/emoji.jpg" width=300/>
+<img src="ScreenShots/msginfo.jpg" width=300/>
+<img src="ScreenShots/msginfo2.jpg" width=300/>
+<img src="ScreenShots/ownprofile.jpg" width=300/>
+<img src="ScreenShots/userinfo dialog.jpg" width=300/>
+<img src="ScreenShots/7.jpg" width=300/>
+<img src="ScreenShots/8.jpg" width=300/>
 </kbd>
 <br>
 <br>
+
+
 
 <b>Features👇 : </b>
 <ul>
